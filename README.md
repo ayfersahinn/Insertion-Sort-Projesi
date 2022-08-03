@@ -1,4 +1,5 @@
 # Insertion-Sort-Projesi
+www.patika.dev
 ### [22,27,16,2,18,6] -> Insertion Sort
 #### 1- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 İlk eleman olan 22'yi 27 ile kıyaslıyoruz. 22 sayısı 27'den küçük. Doğru sıralama!<br><br>
